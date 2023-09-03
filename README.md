@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, there</h1>
-<h3 align="center">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=0357F7&vCenter=true&width=435&lines=Hey!+Its+Amit+Sharma;Full+Stack+Developer" alt="Typing SVG" /> </h3>
+<h3 align="center">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=0357F7&vCenter=true&width=435&lines=Hey!+Its+Deepak;Full+Stack+Developer" alt="Typing SVG" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Major Skills **MongoDB, Express, ReactJS, NodeJS, NextJS**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amit244245.web.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amit244245.web.app/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
